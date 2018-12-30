@@ -1,0 +1,6 @@
+Resources/*
+Resources
+*.xlsx
+*.xls
+_pycache_/*
+*.pyc
